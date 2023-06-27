@@ -1,0 +1,6 @@
+gcd value:1 lcm value:6
+gcd value:1 lcm value:21
+gcd value:4 lcm value:8
+gcd value:12 lcm value:24
+gcd value:2 lcm value:0
+gcd value:2 lcm value:0
