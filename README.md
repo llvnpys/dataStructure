@@ -1,4 +1,4 @@
-# 자료구조 실습 코드
+# dataStructure
 
 이 저장소는 자료구조 수업에서 진행한 다양한 실습 코드들을 포함하고 있습니다.
 
@@ -16,10 +16,7 @@
 - **lab11**: 퀵 정렬 (Quick Sort)
 - **lab12**: 분리 집합 (Disjoint Set)
 
-## 과제
+## 추가 과제
 
 - **AVLTree**: AVL 트리 구현
 - **BTree**: B-트리 구현
-
-# dataStructure
-# dataStructure
